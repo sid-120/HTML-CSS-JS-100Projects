@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #555;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #555;
+  block-size: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  position: relative;
+  background: #222;
+  inline-size: 800px;
+  block-size: 500px;
+}
+.clip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  inline-size: 100%;
+  block-size: 100%;
+}
+.clip1 {
+  background: url();
+}

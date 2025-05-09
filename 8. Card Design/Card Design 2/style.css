@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  block-size: 100vh;
   background: linear-gradient(#0093e9, #80d0c7);
   display: flex;
   justify-content: center;
@@ -11,5 +12,55 @@ body {
   inline-size: 30rem;
   block-size: 30rem;
   background: white;
-  box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 10px 20px 10px blueviolet;
+}
+
+.card:before,
+.card:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  inline-size: 100%;
+  block-size: 100%;
+  background: white;
+  transition: 1s;
+  z-index: -1;
+}
+.card:hover:before {
+  transform: rotate(20deg);
+  box-shadow: 0 10px 20px 10px blueviolet;
+}
+.card:hover:after {
+  transform: rotate(10deg);
+  box-shadow: 0 10px 20px 10px blueviolet;
+}
+.imgBox {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  bottom: 10px;
+  right: 10px;
+  background: #222;
+  transition: 1s;
+  z-index: 2;
+}
+.card:hover .imgBox {
+  bottom: 80px;
+}
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+}
+.content {
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  block-size: 60px;
+  text-align: center;
 }

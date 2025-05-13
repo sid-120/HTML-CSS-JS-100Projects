@@ -8,6 +8,6 @@ This repository cosists of approx 100 HTML-CSS-JS projects. Make use it for your
 
 # Projects
 
-1. Create a stunning Website Backgrounds with HTML5 and CSS3 _[Link]_(https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/1-bg-video)
+1. Create a stunning Website Backgrounds with HTML5 and CSS3 _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/1-bg-video)_
 
-2. Dynamic Loading Animation _[Link]_(https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/2-creative-loading-animation)
+2. Dynamic Loading Animation [Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/2-creative-loading-animation)

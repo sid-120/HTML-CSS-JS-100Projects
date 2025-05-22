@@ -31,3 +31,5 @@ This repository cosists of approx 100 HTML-CSS-JS projects. Make use it for your
 11. Modern Scrollbar -_[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/11.%20Modern%20Scrollbar)_
 
 12. Background Image to Text -_[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/12.%20Image%20To%20Text)_
+
+13. Page Scroll Indicator - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/13.%20Page%20Scroll%20Indicator)_

@@ -37,3 +37,5 @@ This repository cosists of approx 100 HTML-CSS-JS projects. Make use it for your
 14. Animation Heart - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/14.%20Animated%20Heart)_
 
 15. Background Color Change - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/15.%20Background%20Color%20Change)_
+
+16. Auto Text change - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/16.%20Auto%20Text)_

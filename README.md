@@ -35,3 +35,5 @@ This repository cosists of approx 100 HTML-CSS-JS projects. Make use it for your
 13. Page Scroll Indicator - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/13.%20Page%20Scroll%20Indicator)_
 
 14. Animation Heart - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/14.%20Animated%20Heart)_
+
+15. Background Color Change - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/15.%20Background%20Color%20Change)_

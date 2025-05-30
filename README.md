@@ -41,3 +41,5 @@ This repository cosists of approx 100 HTML-CSS-JS projects. Make use it for your
 16. Auto Text change - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/16.%20Auto%20Text)_
 
 17. Custom Cursor - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/17.%20Custom%20Cursor)_
+
+18. Call of Duty trailer - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/18.%20Trailer%20Popup)_

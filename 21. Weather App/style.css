@@ -7,6 +7,10 @@
 body {
   block-size: 100vh;
   background: linear-gradient(#f1f3ff, #7dbadb);
+  background-image: url("Assets/WeatherBackground.jpg");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
 }
 .card {
   inline-size: 90%;

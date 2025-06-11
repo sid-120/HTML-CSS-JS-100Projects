@@ -47,3 +47,5 @@ This repository cosists of approx 100 HTML-CSS-JS projects. Make use it for your
 19. Color Toggler - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/19.%20Color%20Toggler)_
 
 20. Sidebar with DropDown: This small project has to make some changes, this project is still in the progress. NOTE: If anyone want to make changes you can. To visit - _[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/20.%20Sidebar%20with%20Dropdown%20Menu)_
+
+21. Weather App: -_[Link](https://github.com/sid-120/HTML-CSS-JS-100Projects/tree/main/21.%20Weather%20App)_
